@@ -1,0 +1,5 @@
+import "../style.scss"
+import "./datecalc.js"
+import "./change.js"
+import "./timer.js"
+import "../audio/audio.mp3"
